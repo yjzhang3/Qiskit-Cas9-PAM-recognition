@@ -3,9 +3,7 @@
 
 # This code is licensed under the Apache License, Version 2.0. 
 
-# Any modifications or derivative works of this code must retain this
-# copyright notice, and modified files need to carry a notice indicating
-# that they have been altered from the originals.
+# The following has been modified from the original code. See LICENSE.txt for more information. 
 
 from qiskit import Aer
 
